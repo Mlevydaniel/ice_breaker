@@ -1,0 +1,230 @@
+{
+    "public_identifier": "eden-marco",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eden-marco/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240504%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240504T224433Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=32b97b5a74a4589a8a84a58e70dc8b9c8e9d8f5ed53ef01f6a4fa132e2b53f7f",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/eden-marco/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240504%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240504T224433Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=89befaf7b90117ef53736965c9b9a9bb5fa2c3314100eba28659a09c7a6405a7",
+    "first_name": "Eden",
+    "last_name": "Marco",
+    "full_name": "Eden Marco",
+    "follower_count": 4414,
+    "occupation": "LLM Specialist, Customer Engineering - Google Cloud at Google",
+    "headline": "LLMs @ Google Cloud | Best-selling Udemy Instructor | Backend & GenAI",
+    "summary": "Backend developer, Udemy.com best seller instructor\n",
+    "country": "IL",
+    "country_full_name": "Israel",
+    "city": "None",
+    "state": "Tel Aviv District",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2023
+            },
+            "ends_at": "None",
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "company_facebook_profile_url": "None",
+            "title": "LLM Specialist, Customer Engineering - Google Cloud",
+            "description": "None",
+            "location": "Tel Aviv District, Israel",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1721865600&v=beta&t=Ksi_3LkwDp2ehgpbUAlvcV8QqU5LJNuTsqL8gJWizsU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2023
+            },
+            "company": "Google",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/google/",
+            "company_facebook_profile_url": "None",
+            "title": "Customer Engineer",
+            "description": "None",
+            "location": "Tel Aviv, Israel",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHiNSL4Or29cg/company-logo_400_400/0/1631311446380?e=1721865600&v=beta&t=Ksi_3LkwDp2ehgpbUAlvcV8QqU5LJNuTsqL8gJWizsU"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2017
+            },
+            "ends_at": "None",
+            "company": "Udemy",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/udemy/",
+            "company_facebook_profile_url": "None",
+            "title": "Independent Udemy Instructor",
+            "description": "Production and publication of three best-selling courses on the Udemy platform, with a total of 50k+ enrolled students, 10000+ ratings and a solid 4.7 ★ rating.",
+            "location": "None",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQFQr9e68bBOPQ/company-logo_400_400/0/1630536914848/udemy_logo?e=1721865600&v=beta&t=mKt5VUZkjUU8MrK5BWfxWyaJdfwD7fjLodZpef38zj8"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2022
+            },
+            "company": "Orca Security",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/orca-security/",
+            "company_facebook_profile_url": "None",
+            "title": "Senior Software Engineer",
+            "description": "None",
+            "location": "Tel Aviv District, Israel",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGVRPFfGzoS4w/company-logo_400_400/0/1695226035396/orca_security_logo?e=1721865600&v=beta&t=vuO-qR6Ee1JiYsmelTXOlbS-EiY46edkRDPjhAjoiJI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2022
+            },
+            "company": "Orca Security",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/orca-security/",
+            "company_facebook_profile_url": "None",
+            "title": "Software Engineer",
+            "description": "None",
+            "location": "Tel Aviv, Israel",
+            "logo_url": "https://media.licdn.com/dms/image/D560BAQGVRPFfGzoS4w/company-logo_400_400/0/1695226035396/orca_security_logo?e=1721865600&v=beta&t=vuO-qR6Ee1JiYsmelTXOlbS-EiY46edkRDPjhAjoiJI"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 12,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2020
+            },
+            "company": "Wizer",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/get-wizer/",
+            "company_facebook_profile_url": "None",
+            "title": "Software Engineer",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQEXt0RaaDfBCg/company-logo_400_400/0/1652790901127/get_wizer_logo?e=1721865600&v=beta&t=G9CkngaVVs2Kt3TJ0hHgOxWS2BO3zLnDZUwKQPJmzzQ"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 12,
+                "year": 2019
+            },
+            "company": "Deep Instinct",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/deep-instinct/",
+            "company_facebook_profile_url": "None",
+            "title": "Software Engineer",
+            "description": "None",
+            "location": "Tel Aviv Area, Israel",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQHmU4Cmw7TCIw/company-logo_400_400/0/1655990913050/deep_instinct_logo?e=1721865600&v=beta&t=qKxObsDNveZIj__zBf1ag73yaH5MR26FTJUaxsFMhFs"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2019
+            },
+            "company": "Reichman University",
+            "company_linkedin_profile_url": "https://www.linkedin.com/school/reichman-university/",
+            "company_facebook_profile_url": "None",
+            "title": "Computer Science Teaching Assistant (External Lecturer)",
+            "description": "* Functional Programming (Including international school)\n* Introduction to Computer Science",
+            "location": "Herzliya Area, Israel",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQGg9wJflAQnjw/company-logo_400_400/0/1632054180509/reichman_university_idc_herzliya_logo?e=1721865600&v=beta&t=Ng0gkZ_WouupKiH-O3bHe40hHBFTkonzshFFvaVGTEY"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2010
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2014
+            },
+            "company": "Israel Defense Forces",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/israeldefenseforces/",
+            "company_facebook_profile_url": "None",
+            "title": "Captain",
+            "description": "None",
+            "location": "None",
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQGFvdKBX-qv5Q/company-logo_400_400/0/1698509824082?e=1721865600&v=beta&t=L0Ga-oLJZaNG0levTU7e4DI0GmwZuNLj1thrUl_faaA"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "Bachelor’s Degree",
+            "school": "Technion - Israel Institute of Technology",
+            "school_linkedin_profile_url": "None",
+            "school_facebook_profile_url": "None",
+            "description": "None",
+            "logo_url": "https://media.licdn.com/dms/image/C4D0BAQG12formuFdJg/company-logo_400_400/0/1630469288270/technion_logo?e=1721865600&v=beta&t=hprSg-dDbyMrxwaG8dxgKXQY2V4C1Fs7JSBE19DIPRY",
+            "grade": "None",
+            "activities_and_societies": "None"
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 500,
+    "people_also_viewed": [],
+    "recommendations": [],
+    "activities": [],
+    "similarly_named_profiles": [],
+    "articles": [],
+    "groups": [],
+    "skills": [],
+    "inferred_salary": "None",
+    "gender": "None",
+    "birth_date": "None",
+    "industry": "None",
+    "extra": "None",
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}
