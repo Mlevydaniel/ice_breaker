@@ -12,9 +12,11 @@ load_dotenv()
 
 def lookup(name: str) -> str:
     llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")
+
     template = """
        given the name {name_of_person} I want you to find a link to their Twitter profile page, and extract from it their username
        In Your Final answer only the person's username"""
+
     tools_for_agent_twitter = [
         Tool(
             name="Crawl Google 4 Twitter profile page",
@@ -28,6 +30,7 @@ def lookup(name: str) -> str:
     )
 
     react_prompt = hub.pull("hwchase17/react")
+
     agent = create_react_agent(
         llm=llm, tools=tools_for_agent_twitter, prompt=react_prompt
     )
@@ -42,3 +45,8 @@ def lookup(name: str) -> str:
     twitter_username = result["output"]
 
     return twitter_username
+
+
+if __name__ == "__main__":
+    name = "Martin Levy Daniel"
+    print(lookup(name))

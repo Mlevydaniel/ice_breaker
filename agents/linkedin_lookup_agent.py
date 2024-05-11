@@ -15,6 +15,15 @@ load_dotenv()
 
 
 def lookup(name: str) -> str:
+    """"
+    Given the full name of a person, this function will return the Linkedin URL of the person.
+
+    Args:
+        name: str: The full name of the person.
+
+    Returns:
+        str: The Linkedin URL of the person.
+    """
     llm = ChatOpenAI(
         temperature=0,
         model_name="gpt-3.5-turbo",
